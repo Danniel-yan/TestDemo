@@ -1,0 +1,186 @@
+[
+    {
+        "outputFile": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 49,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 43,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 43,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1247,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1239
+                    }
+                }
+            }
+        ]
+    }
+]

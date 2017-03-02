@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0aab47fd2987ce3f381f6fd95be658c4f3ccd983">
+        <dex dex="/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b5fdd3037b2d2ec41a0f117201934b2e65e213ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_773e22627e5c1bfafe12c1b74acfb2f1b3261b66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6df7ba13b28cedf7037fe1521a9b45a245f451ae">
+        <dex dex="/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aec2bbbf40a02b53303472be0d8e5cb60d5284ef/classes.dex" />
+    </item>
+
+</items>

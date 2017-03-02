@@ -1,0 +1,16 @@
+apply plugin: 'java'
+
+dependencies {
+    compile files('libs/java-client-4.1.2.jar')
+    compile files('libs/selenium-server-standalone-2.44.0.jar')
+    compile files('libs/httpclient-4.3.1.jar')
+    compile files('libs/httpclient-4.3.1.jar')
+    compile files('libs/httpcore-4.4.1.jar')
+    compile files('libs/httpmime-4.4.1.jar')
+    compile files('libs/selenium-java-2.53.0.jar')
+    compile files('libs/selenium-java-2.53.0-srcs.jar')
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+}
+
+sourceCompatibility = "1.6"
+targetCompatibility = "1.6"

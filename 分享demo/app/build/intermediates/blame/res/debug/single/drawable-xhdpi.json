@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_wechatmoments.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/logo_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_sinaweibo.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/logo_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_other.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/logo_other.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_tencentweibo.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/logo_tencentweibo.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_wechat.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/logo_wechat.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_qq.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/logo_qq.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_shortmessage.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/logo_shortmessage.png"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_qzone.png",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/drawable-xhdpi/logo_qzone.png"
+    }
+]

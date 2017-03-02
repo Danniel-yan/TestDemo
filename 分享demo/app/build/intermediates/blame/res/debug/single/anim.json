@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/anim/slide_out_bottom.xml",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/AndroidStudioProjects/分享demo/app/build/intermediates/res/merged/debug/anim/slide_from_bottom.xml",
+        "source": "/Users/admin/AndroidStudioProjects/分享demo/app/src/main/res/anim/slide_from_bottom.xml"
+    }
+]
